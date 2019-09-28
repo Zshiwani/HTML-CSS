@@ -1,0 +1,14 @@
+#moved{left: 900px}
+
+#imagea{padding: 30px;
+    background-color: white}
+
+
+
+
+
+@media only screen and (max-width: 680px) {
+    #moved {
+        left: 0px;
+    }
+}
